@@ -520,7 +520,7 @@ The recorded retrieval evaluation provides an initial assessment of the search c
 
 ## 👩‍💻 Author
 
-**Reddy Gayatri Satya Sai Pravallika**
+**Mandadi Vennela Naga Sai**
 
 B.Tech – Computer Science and Information Technology  
 K L (Deemed to be) University
